@@ -1,0 +1,3 @@
+motion-python
+streamlit
+google-generativeai
