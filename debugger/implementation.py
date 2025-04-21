@@ -4,7 +4,7 @@ import os
 import google.generativeai as genai
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyCEdaLeJCo7p-_KLJnsyZwZb7GQ6uqzpmc")
+genai.configure(api_key="ADD YOUR API KEY HERE")
 
 CDebugger = Component("C-Debugger")
 
